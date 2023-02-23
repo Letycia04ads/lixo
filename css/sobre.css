@@ -1,0 +1,19 @@
+h1{ 
+    text-align: center ;
+}
+
+figure{
+    text-align: right ;
+}
+
+.figure2{
+    text-align: center ;
+}
+
+img {
+border-radius: 50%;
+}
+
+body{
+    background-color: rgb(166, 251, 222) ;
+}
